@@ -8,7 +8,7 @@
 <br/>
 
 <!--badge-->
-  ##  🐬Tech Stack🐬 
+  ##  🦊Tech Stack🦊 
   Lanuages(FrameWorks) & Tools that I used
   
 <!--lang-->
