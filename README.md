@@ -25,4 +25,5 @@
   <br/>
  <!-- FrameWorks -->
  <img src="https://img.shields.io/badge/-Django-green?style=flat&logo=Django&logoColor=092E20"/>
+ <img src="https://img.shields.io/badge/-React-blue?style=flat&logo=React&logoColor=61DAFB"/>
 </div>
