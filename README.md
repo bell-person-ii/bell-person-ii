@@ -8,7 +8,7 @@
 <br/>
 
 <!--badge-->
-  ##  Tech Stack 
+  ##  🐬Tech Stack🐬 
   Lanuages & Tools that I used
   
 <!--lang-->
