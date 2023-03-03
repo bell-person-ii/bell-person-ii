@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=bell-person-ii's%20GitHub%20&descAlignY=51&descAlign=62)
 
+<div align="center">
 <br/>
 <br/>
 <br/>
@@ -17,3 +18,4 @@
  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <br/>
+</div>
