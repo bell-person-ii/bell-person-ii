@@ -3,7 +3,6 @@
 <br/>
 <br/>
 <br/>
-<br/>
 
 <!--badge-->
   ##  Tech Stack 
