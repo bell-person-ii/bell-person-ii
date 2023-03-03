@@ -24,5 +24,5 @@
   
   <br/>
  <!-- FrameWorks -->
- <img src="https://img.shields.io/badge/-Django-green?style=flat&logo=Sass&logoColor=092E20"/>
+ <img src="https://img.shields.io/badge/-Django-green?style=flat&logo=Django&logoColor=092E20"/>
 </div>
