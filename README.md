@@ -9,7 +9,7 @@
 
 <!--badge-->
   ##  🦊Tech Stack🦊 
-  Lanuages(FrameWorks) & Tools that I used
+  Languages(FrameWorks) & Tools that I used
   
 <!--lang-->
  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
