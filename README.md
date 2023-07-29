@@ -22,8 +22,7 @@
  <!-- FrameWorks -->
  <img src="https://img.shields.io/badge/-Django-green?style=flat&logo=Django&logoColor=092E20"/>
  </br>
- <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
-
+  <img src="https://img.shields.io/badge/Intelli%20J IDEA-000000?style=for-the-badge&logo=Intelli%20J IDEA&logoColor=white">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white"/>
