@@ -21,7 +21,6 @@
  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
  <!-- FrameWorks -->
  <img src="https://img.shields.io/badge/-Django-green?style=flat&logo=Django&logoColor=092E20"/>
- <img src="https://img.shields.io/badge/-React-blue?style=flat&logo=React&logoColor=61DAFB"/>
  </br>
  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
 
